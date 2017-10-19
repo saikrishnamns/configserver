@@ -4,7 +4,7 @@ spring:
     config: 
       server: 
         git: 
-          uri: "https://github.com/saikrishnamns/configrepo"
+          uri: "https://github.com/saikrishnamns/configserver"
   security: 
   user: 
     name: admin
